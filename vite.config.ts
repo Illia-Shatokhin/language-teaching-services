@@ -11,5 +11,5 @@ export default defineConfig({
       assets: '/src/assets',
     },
   },
-  base: '/react_vite_ts',
+  base: '/language-teaching-services',
 });
